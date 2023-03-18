@@ -1,0 +1,27 @@
+.center,.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 480px;
+    text-align: center;
+    font-size: 30px;
+}
+ul.myUl{
+    display: inline-block;
+    text-align: left;
+    
+    font-size: 30px;
+}
+.center,#firstimg{
+    width: 750px;
+}
+body{
+    background-color: rgba(207, 207, 207, 0.777); 
+    font-size: 30px;
+}
+#heading{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
